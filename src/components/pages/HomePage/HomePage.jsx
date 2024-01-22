@@ -1,7 +1,14 @@
 import "./homepage.css"
+import Header from "../../Header/Header"
 
 export default function HomePage() {
   return (
-    <div>HomePage</div>
+    <>
+      <Header/>
+      <div className="home">HomePage</div>
+      
+    </>
+  
+  
   )
 }
