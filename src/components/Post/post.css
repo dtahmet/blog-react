@@ -13,6 +13,7 @@ hr{
 h1{
     margin:10px 0 10px 0;
     text-align: center;
+    cursor: pointer;
     
 }
 
@@ -20,6 +21,7 @@ h3{
     color: cadetblue;
     margin:20px 0 20px 0px;
     text-align: center;
+    cursor: pointer;
 }
 
 .textItem{
@@ -38,13 +40,13 @@ h3{
 
 .postImg{
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 20rem;
-  width: 80%;
-  object-fit: cover;
-    
+    margin-left: auto;
+    margin-right: auto;
+    height: 20rem;
+    width: 80%;
+    object-fit: cover;
     align-items: center;
+    cursor:pointer;
     
 
 }

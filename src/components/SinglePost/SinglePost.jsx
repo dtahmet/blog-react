@@ -27,15 +27,17 @@ export default function SinglePost() {
         ullamco ut sunt voluptate velit aute esse id culpa. Ex fugiat veniam est
         nostrud ullamco consectetur sit.
       </p>
-      <hr></hr>
+     
 
       <div className="dateName2">
+        <hr></hr>
         <p className="justDate2">24.01.2024</p>
         <p className="writerName2">
           Written by <span>Ercan H.</span>
         </p>
+        <hr></hr>
       </div>
-      <hr></hr>
+  
     </div>
   );
 }
