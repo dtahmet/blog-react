@@ -1,0 +1,70 @@
+.postItem{
+    width: 100%
+    
+}
+
+
+hr{
+    margin-right: 2%;
+    margin-left: 2%
+    
+}
+
+h1{
+    margin:10px 0 10px 0;
+    text-align: center;
+    
+}
+
+h3{
+    color: cadetblue;
+    margin:20px 0 20px 0px;
+    text-align: center;
+}
+
+.textItem{
+    font-size: 20px;
+    margin:20px 0 20px 0;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0 30px 0 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    margin-bottom: 2rem;
+}
+
+.postImg{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20rem;
+  width: 80%;
+  object-fit: cover;
+    
+    align-items: center;
+    
+
+}
+
+.dateName{
+    padding: 0;
+    margin: 0;
+    display:grid;
+    grid-template-columns: auto auto;
+    
+    
+}
+
+.justDate{
+    margin:0;
+    margin-left:12px ;
+}
+
+.writerName{
+    padding: 0;
+    margin-right: 14px;
+    text-align: end;
+}

@@ -1,4 +1,4 @@
-.home{
+.single{
     display: flex;
 }
 
@@ -6,6 +6,6 @@
     flex: 3
 }
 
-.mainScreen{
+.mainSinglePost{
     flex:9
 }

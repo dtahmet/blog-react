@@ -1,1 +1,72 @@
+.longLine{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 
+.sideImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20rem;
+    width: 20rem;
+    object-fit: cover;
+
+}
+
+.sideMainTitle{
+
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.categoryItems{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+    font-size: 1.5rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 4px;
+}
+
+.categoryItem{
+    padding: 0;
+    margin-top: 1rem;
+    margin-bottom:1rem;
+    cursor: pointer;
+    
+
+}
+
+p{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    line-height: 1.2;
+
+}
+
+.iconList{
+    padding: 0;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 2rem;
+    justify-content: center;
+    font-size: 4rem;   
+    gap:2rem; 
+    
+}
+
+.fa-brands{
+    cursor:pointer
+}

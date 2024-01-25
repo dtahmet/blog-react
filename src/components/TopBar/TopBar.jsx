@@ -4,13 +4,13 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <ul className="iconList">
-          <li class="fa-brands fa-facebook"></li>
-          <li class="fa-brands fa-twitter"></li>
-          <li class="fa-brands fa-instagram"></li>
-          <li class="fa-brands fa-tiktok"></li>
-          <li class="fa-brands fa-linkedin"></li>
-          <li class="fa-brands fa-github"></li>
+        <ul className="iconListx">
+          <li class="iconx fa-brands fa-facebook"></li>
+          <li class="iconx fa-brands fa-twitter"></li>
+          <li class="iconx fa-brands fa-instagram"></li>
+          <li class="iconx fa-brands fa-tiktok"></li>
+          <li class="iconx fa-brands fa-linkedin"></li>
+          <li class="iconx fa-brands fa-github"></li>
         </ul>
       
 
